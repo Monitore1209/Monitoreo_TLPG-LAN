@@ -22,7 +22,7 @@ Los siguientes ajustes deberán realizarse para la configuración:
 
 2.- clonar el repositorio
 
-    git clone https://github.com/Monitore1209/Monitoreo.git 
+    git clone https://github.com/Monitore1209/Monitoreo_TLPG-LAN.git 
 
 
 ```Entorno Virtual```
