@@ -9,3 +9,4 @@ passlib
 password_strength
 apscheduler
 email_validator
+pip==23.2.1
