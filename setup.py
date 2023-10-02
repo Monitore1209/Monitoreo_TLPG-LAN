@@ -7,18 +7,18 @@ with open("requirements.txt") as f:
     install_requires = f.readlines()
 
 setuptools.setup(
-    name='ipmon',
+    name='Monitoreo',
     version='0.0.1',
-    description='Poll hosts via ICMP to check on health',
+    description='Realizar sondeos a hosts mediante ICMP para verificar su estado',
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='MIT',
-    author='Mitch Gates',
-    author_email='gates55434@gmail.com',
-    url='https://github.com/mistergates/ipmon',
+    author='Monitoreo',
+    author_email='telepuertogoosealuio@gmail.com',
+    url='https://github.com/Monitore1209',
     packages=setuptools.find_packages(),
     install_requires=install_requires,
-    python_requires='>=3.4',
+    python_requires='>=3.9',
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
