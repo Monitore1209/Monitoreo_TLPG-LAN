@@ -32,13 +32,15 @@ Los siguientes ajustes deberán realizarse para la configuración:
 4.- Ingrese al directorio principal del Proyecto
 
      cd Monitoreo_TLPG-LAN
+     
 
 ```Entorno Virtual```
 
 5.- Instalar herramientas de entorno virtual con los siguiente comandos:
 
     apt install python3-pip
-    
+
+      
     apt install python3-virtualenv
 
 5.- Crear el entorno virtual con el siguiente comando:
