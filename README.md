@@ -30,6 +30,7 @@ Los siguientes ajustes deberán realizarse para la configuración:
 ```Entorno Virtual```
 
 4.- Instalar herramientas de entorno virtual con los siguiente comandos:
+
     apt install python3-pip
     
     apt install python3-virtualenv
