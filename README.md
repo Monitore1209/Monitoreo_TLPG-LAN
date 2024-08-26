@@ -27,32 +27,35 @@ Los siguientes ajustes deberán realizarse para la configuración:
 
 ```Entorno Virtual```
 
+3.- Instalar herramientas de entorno virtual con los siguiente comandos:
+    apt install python3-pip
+    apt install python3-virtualenv
 
-apt install python3-pip
+4.- Crear el entorno virtual con el siguiente comando:
+ 
+       Python -m venv .venv
+     PARA UBUNTU 22
+       virtualenv .venv
+5.- Activar el entorno virtual con el siguiente comando:
 
-3.- Crear el entorno virtual con el siguiente comando:
-
-     Python -m venv .venv
-
-4.- Activar el entorno virtual con el siguiente comando:
-
-    .\.venv\Scripts\activate
-
-
-5.- Desde el directorio principal de este repositorio, ejecute el siguiente comando:
+         .\.venv\Scripts\activate
+      PARA UBUNTU 22
+          source .venv/bin/activate
+       
+6.- Desde el directorio principal de este repositorio, ejecute el siguiente comando:
 
      pip install -r requirements.txt
 
 ```Actualizar PIP```
 
-6.-  ejecute el siguiente comando:
+7.-  ejecute el siguiente comando:
 
     python.exe -m pip install --upgrade pip
      
 
    ```Iniciar el Servidor```
 
-7.- poner en marcha el servidor, ejecute el siguiente comando:
+8.- poner en marcha el servidor, ejecute el siguiente comando:
 
     flask run
 
