@@ -22,14 +22,20 @@ Los siguientes ajustes deberán realizarse para la configuración:
 
 ```Clonar el repositorio```
     
-3.- clonar el repositorio
+3.- Clonar el repositorio
     apt install git
     
     git clone https://github.com/Monitore1209/Monitoreo_TLPG-LAN.git 
 
+    ```Ingresar al  repositorio```
+
+4.- Ingrese al directorio principal del Proyecto
+
+     cd Monitoreo_TLPG-LAN
+
 ```Entorno Virtual```
 
-4.- Instalar herramientas de entorno virtual con los siguiente comandos:
+5.- Instalar herramientas de entorno virtual con los siguiente comandos:
 
     apt install python3-pip
     
