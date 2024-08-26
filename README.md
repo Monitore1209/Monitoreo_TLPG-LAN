@@ -15,8 +15,10 @@ Los siguientes ajustes deberán realizarse para la configuración:
 
 ```Instalar Python```
 
-1.- Python 3.0+ debe estar instalado
-2.- Dirigase al directorio donde desee instalar el repositorio
+1.- Python 3.0+ debe estar instalado.
+
+2.- Dirigase al directorio donde desee instalar el repositorio.
+
 
 ```Clonar el repositorio```
     
