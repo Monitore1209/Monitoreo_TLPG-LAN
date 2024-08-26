@@ -22,17 +22,19 @@ Los siguientes ajustes deberán realizarse para la configuración:
 
 ```Clonar el repositorio```
     
-2.- clonar el repositorio
+3.- clonar el repositorio
     apt install git
+    
     git clone https://github.com/Monitore1209/Monitoreo_TLPG-LAN.git 
 
 ```Entorno Virtual```
 
-3.- Instalar herramientas de entorno virtual con los siguiente comandos:
+4.- Instalar herramientas de entorno virtual con los siguiente comandos:
     apt install python3-pip
+    
     apt install python3-virtualenv
 
-4.- Crear el entorno virtual con el siguiente comando:
+5.- Crear el entorno virtual con el siguiente comando:
  
        Python -m venv .venv
      PARA UBUNTU 22
