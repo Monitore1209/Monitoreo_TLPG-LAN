@@ -26,6 +26,7 @@ Los siguientes ajustes deberán realizarse para la configuración:
 
 
 ```Entorno Virtual```
+apt install python3-pip
 
 3.- Crear el entorno virtual con el siguiente comando:
 
