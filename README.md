@@ -19,9 +19,9 @@ Los siguientes ajustes deberán realizarse para la configuración:
 
 
 ```Clonar el repositorio```
-
+    Dirigase al directorio donde desee instalar el repositorio
 2.- clonar el repositorio
-
+    apt install git
     git clone https://github.com/Monitore1209/Monitoreo_TLPG-LAN.git 
 
 
